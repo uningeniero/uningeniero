@@ -6,13 +6,7 @@ Me especializo en convertir problemas reales en soluciones prácticas, combinand
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🔘 El Botón
-Juego web experimental basado en mecánicas simples y progresivas.  
-👉 https://elboton.vercel.app/
-
----
+## 🚀 Proyectos
 
 ### 🧠 Singularity Ingeniería
 Marca profesional donde desarrollo proyectos de ingeniería, automatización y soluciones digitales a medida.  
@@ -43,6 +37,13 @@ Proyecto audiovisual centrado en conversaciones reales, ideas y experiencias.
 👉 https://www.youtube.com/@Laplazadelpueblopodcast
 
 ---
+
+### 🔘 El Botón
+Juego web experimental basado en mecánicas simples y progresivas.  
+👉 https://elboton.vercel.app/
+
+---
+
 
 ## 🧰 Tecnologías y herramientas
 
