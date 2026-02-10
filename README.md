@@ -20,6 +20,13 @@ Plataforma de formación especializada en Excel, productividad y automatización
 
 ---
 
+### 💧 Embalses Hoy
+Herramienta web para consultar en tiempo real el estado de los embalses en España.  
+Proporciona datos actualizados, visualizaciones y comparativas de niveles de agua.  
+👉 https://embalseshoy.es/
+
+---
+
 ### 📘 Portal Excel
 Portal de recursos y contenidos prácticos sobre Excel, pensado para aprender resolviendo casos reales.  
 👉 https://portalexcel.com/
@@ -45,17 +52,8 @@ Juego web experimental basado en mecánicas simples y progresivas.
 ---
 
 
-## 🧰 Tecnologías y herramientas
-
-- Excel avanzado · Power Query · Automatización
-- Desarrollo web (front y back)
-- Bases de datos y sistemas de información
-- IA aplicada a procesos y contenido
-- Diseño de productos digitales
-
 ---
 
 ## 📫 Contacto
 
-- https://singularityingenieria.com/
-
+👉 https://singularityingenieria.com/
