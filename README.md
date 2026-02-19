@@ -27,6 +27,13 @@ Proporciona datos actualizados, visualizaciones y comparativas de niveles de agu
 
 ---
 
+### 🛣️ Carreteras.es
+Plataforma de análisis y consulta del estado de la red de carreteras, con indicadores de riesgo, tráfico e incidencias.  
+Orientada a información pública, análisis territorial y toma de decisiones.  
+👉 https://carreteras.es/
+
+---
+
 ### 📘 Portal Excel
 Portal de recursos y contenidos prácticos sobre Excel, pensado para aprender resolviendo casos reales.  
 👉 https://portalexcel.com/
@@ -48,9 +55,6 @@ Proyecto audiovisual centrado en conversaciones reales, ideas y experiencias.
 ### 🔘 El Botón
 Juego web experimental basado en mecánicas simples y progresivas.  
 👉 https://elboton.vercel.app/
-
----
-
 
 ---
 
