@@ -1,8 +1,6 @@
 # Hola 👋, soy Álvaro
 
-Ingeniero y creador de productos digitales. Trabajo en la intersección entre ingeniería, automatización, datos y creación de herramientas que ahorran tiempo a personas y empresas.
-
-Me especializo en convertir problemas reales en soluciones prácticas, combinando Excel avanzado, desarrollo web y automatización.
+Ingeniero civil y profesor. Trabajo en la intersección entre ingeniería, tecnología, innovación, datos y creación de herramientas que se aterrizan y no tienen fuegos artificiales.
 
 ---
 
@@ -20,7 +18,7 @@ Plataforma de formación especializada en Excel, productividad y automatización
 
 ---
 
-### 💧 Embalses Hoy
+### 💧 EmbalsesHoy.es
 Herramienta web para consultar en tiempo real el estado de los embalses en España.  
 Proporciona datos actualizados, visualizaciones y comparativas de niveles de agua.  
 👉 https://embalseshoy.es/
