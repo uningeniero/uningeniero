@@ -12,6 +12,13 @@ Marca profesional donde desarrollo proyectos de ingeniería, automatización y s
 
 ---
 
+### 🧾 Don Licitación
+Plataforma para la búsqueda, seguimiento y análisis de licitaciones públicas.  
+Asesoría técnica y acompañamiento privado para la preparación de licitaciones.
+👉 https://donlicitacion.es/
+
+---
+
 ### 📊 Excel con Álvaro
 Plataforma de formación especializada en Excel, productividad y automatización aplicada al trabajo real.  
 👉 https://excelconalvaro.com/
